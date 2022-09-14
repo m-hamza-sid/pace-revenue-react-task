@@ -52,5 +52,4 @@ is often not viable during visual UI development, but still would like to add sp
 
 - Although have tried to "design everything by interface", still would like to implement formal clean architecture layers
 for ease of development communication.
-- 
-Once completed, please email your solution to ben@pacerevenue.com. If you have any questions, please let us know!
+-
